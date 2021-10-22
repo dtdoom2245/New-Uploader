@@ -22,7 +22,8 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 heroku/python
 ```
-
+#### Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thantzinmyothant1/New-Uploader)
 
 ## Credits, and Thanks to
 
